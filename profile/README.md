@@ -84,16 +84,12 @@
 
 </details>
 
-<br/>
-
 <!--details open>
   <summary id="주요-기능">📌 주요 기능</summary>
 
   내용 여기에 추가...
 
 </details--!>
-
-<br/>
 
 <!--details open>
   <summary id="아키텍처">📌 아키텍처</summary>
